@@ -19,6 +19,10 @@ A Machine Learning-based web application that predicts the 10-year risk of Coron
 
 ---
 
+<img width="1600" height="840" alt="prediction" src="https://github.com/user-attachments/assets/f2a641ca-ab42-4de8-b3ea-03a39c9b5dd1" />
+
+---
+
 ## 📂 Dataset
 
 **Dataset:** Framingham Heart Study Dataset
